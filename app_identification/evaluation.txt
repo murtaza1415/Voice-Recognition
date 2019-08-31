@@ -1,0 +1,16 @@
+Raw Audios:
+    No. Audios: 24
+    Accuracy: 54
+    Thresh acc: 77 (15 rejected at t=39)
+    
+    
+Normalized Audios:
+    No. Audios: 24 
+    Accuracy: 70
+    Thresh acc: 
+
+
+Noise Reduction + Normalized Audios:
+    No. Audios: 24
+    Accuracy: 70
+    Thresh acc: 
